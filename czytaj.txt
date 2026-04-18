@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-"Kolejna zmiana w pliku czytaj.txt" 
-=======
-Pierwsza zmiana w pliku czytaj.txt
-Nowa zmiana
-Kolejna zmiana
-Zmiana w pliku czytaj.txt
->>>>>>> alias2/master
