@@ -1,1 +1,4 @@
-Szymon Mędela
+Pierwsza zmiana w pliku czytaj.txt
+Nowa zmiana
+Kolejna zmiana
+Zmiana w pliku czytaj.txt
