@@ -1,2 +1,1 @@
-Witaj w Git 
 "Kolejna zmiana w pliku czytaj.txt" 
